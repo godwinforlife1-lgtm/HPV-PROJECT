@@ -96,6 +96,6 @@ English (native) · French (A2)
 ## 📫 Let's Connect
 
 [![LinkedIn]www.linkedin.com/in/godwin-omoregbe-b632721ba
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:godwin-uhunoma.omoregbe@etu.univ-cotedazur.fr)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](godwinforlife1@gmail.com)
 
 *Based in the Nice area, France.*
